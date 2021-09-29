@@ -1,3 +1,9 @@
+# Qué es el proyecto?
+Un login muy simple para probar auth0
+
+# Comandos
+npx create-react-app / npm i @auth0/auth0-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
